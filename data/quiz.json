@@ -1,0 +1,1298 @@
+[
+  {
+    "questionid": 1,
+    "categoryid": 1,
+    "text": "پایتخت بلغارستان کجاست؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "پرو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "پاریس",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "پکن",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "صوفیه",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 2,
+    "categoryid": 1,
+    "text": "قد بلندترین حیوان جهان کدام است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "فیل",
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": "نهنگ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "اسب",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "زرافه",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 3,
+    "categoryid": 1,
+    "text": " پایتخت کانادا کدام است؟ ",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "کبک",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "تورنتو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "پکن",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "اوتاوا",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 4,
+    "categoryid": 1,
+    "text": " کتاب هملت را چه کسی نوشته؟ ",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "انتوان دو سنت اگزوپری",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "شارلوت برونته",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "کافکا",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "شکسپیر",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 5,
+    "categoryid": 1,
+    "text": "پر جمعیت ترین کشور جهان کدام است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "هند",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "آمریکا",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "ژاپن",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "چین",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 6,
+    "categoryid": 1,
+    "text": "چند درصد سطح کره زمین را آب پوشانده است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "80%",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "60%",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "75%",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "70%",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 7,
+    "categoryid": 1,
+    "text": "چند سیاره در منظومه شمسی ما وجود دارد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "7",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "10",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "9",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "8",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 8,
+    "categoryid": 1,
+    "text": "ورزش یوگا از کدام کشور آمده است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "چین",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "ژاپن",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "مکزیک",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "هند",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 9,
+    "categoryid": 1,
+    "text": "نزدیک ترین کشور به قطب شمال کدام است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "روسیه",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "سوئد",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "آمریکا",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "فنلاند",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 10,
+    "categoryid": 1,
+    "text": " دوران حاملگی فیل چند ماه است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "25",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "19",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "30",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "22",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 11,
+    "categoryid": 1,
+    "text": " برلین پایتخت کدام کشور است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "سوییس",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "اسپانیا",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "انگلیس",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "المان",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 12,
+    "categoryid": 1,
+    "text": "لامپ را چه کسی اختراع کرد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "توماس گراهام بل",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "الکساندر پل",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "هنری فورد",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "توماس ادیسون",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 1,
+    "categoryid": 2,
+    "text": "ترکیب همه ی رنگ ها با هم چه رنگی است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "سفید",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "مشکی",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "قرمز",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "خاکستری",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 2,
+    "categoryid": 2,
+    "text": "بعضی از ماهها ۳۰ روز دارند بعضی ۳۱ روز چند ماه ۲۹ روز دارد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "یک ماه",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "دو ماه",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "هیچکدام",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "تمام ماه ها",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 3,
+    "categoryid": 2,
+    "text": "کدامیک از موارد زیر با بقیه فرق دارد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "لمس کردن",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "شنیدن",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "دیدن",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "گرسنگی",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 4,
+    "categoryid": 2,
+    "text": "اگر تنها یك كبریت داشته باشید و وارد یك اتاق سرد و تاریك شوید كه در آن یك بخاری نفتی یك چراغ نفتی و یك شمع باشد اول كدامیك را روشن میكنید؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "بخاری نفتی ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "چراغ نفتی",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "شمع",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "هیچکدام",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 5,
+    "categoryid": 2,
+    "text": "اگر 2 سیب از 3 سیب بردارین چند سیب دارید؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "یک عدد",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "پنج عدد",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "سه عدد",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "دو عدد",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 6,
+    "categoryid": 2,
+    "text": "اگر تمام اعداد بین 300 تا 400 را روی کاغذ بنویسی. چند بار از عدد 3 استفاده کردی؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "142",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "117",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "135",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "120",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 7,
+    "categoryid": 2,
+    "text": "والدین شما 6 پسر دارند و هر پسر یک خواهر دارد. تعداد افراد این خانواده چند است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "14",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "8",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "10",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "9",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 8,
+    "categoryid": 2,
+    "text": " عدد 30 را بر نیم تقسیم می کنیم و سپس عدد 10 را به آن اضافه می کنیم. نتیجه کدام گزینه است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "30",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "25",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "80",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "70",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 9,
+    "categoryid": 2,
+    "text": "کدام عدد بعد از این سری باید بیاید؟ 10 - 17 - 26 - 37 - ؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "51",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "48",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "57",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "50",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 10,
+    "categoryid": 2,
+    "text": "چند کیلو خاک در یک چاله به قطر 2 متر و ارتفاع 3 متر وجود دارد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "6000 کیلو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "8000 کیلو",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "7000 کیلو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "هیچکدام",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 11,
+    "categoryid": 2,
+    "text": "چند بار می توان عدد 2 را از 50 کم کرد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "دوبار",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "25بار ",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "30بار",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "یکبار",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 12,
+    "categoryid": 2,
+    "text": "رابطه کلمه کشمش با غوره مانند رابطه کلمه …………. است با …………….",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "نان است به خمیر",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "برف است به باران",
+        "iscorrect": ""
+      },
+      {
+        "answerid": 3,
+        "title": "آرد است به گندم",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "یخ است با بخار",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 1,
+    "categoryid": 3,
+    "text": "کدامیک از ابزارهای زیر به معنی شستشو می باشد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "آب رنگ ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "مداد رنگی ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "مداد شمعی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "گواش",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 2,
+    "categoryid": 3,
+    "text": "کدامیک از ابزارهای زیر تاثیرگذار است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "کاغذ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "پرده نقاشی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "میز نور",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "مداد",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 3,
+    "categoryid": 3,
+    "text": "کدام گزینه از تکنیک های گرافیک نمی باشد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "چاپ دستی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "عکاسی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "طراحی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "معماری",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 4,
+    "categoryid": 3,
+    "text": "صفحه آرایی برای کتاب و نشریه جز کدام حیطه و تخصص گرافیک می باشد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "ارتباط بصری",
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": "تصویرسازی ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "هر دو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "هیچ گدام",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 5,
+    "categoryid": 3,
+    "text": "اقسام رنگ کدام است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "نوری و غیرنوری",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "نوری و جسمی",
+        "iscorrect": true
+      },
+      {
+        "answerid": 3,
+        "title": "آفتابی و غیر آفتابی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "هیچدام",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 6,
+    "categoryid": 3,
+    "text": "منبع اصلی رنگهای نوری چیست؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "ماه",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "وجود ندارد",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "خورشید",
+        "iscorrect": true
+      },
+      {
+        "answerid": 4,
+        "title": "مورد اول و سوم",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 7,
+    "categoryid": 3,
+    "text": "با ترکیب رنگ های آبی و سبز چه رنگی تولید می شود ؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "فیروزه ای",
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": "زرد",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "سبز",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "سفید",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 8,
+    "categoryid": 3,
+    "text": "سه رنگ اصلی چاپ چه رنگ هایی هستند ؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "زرد – ماژنتا – سایان",
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": "قرمز – سبز – آبی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "زرد  - نارنجی – بنفش",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "زرد – آبی – قرمز",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 9,
+    "categoryid": 3,
+    "text": "کدام یک از رنگهای زیر،  جز رنگ ثانویه است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "آبی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "سبز",
+        "iscorrect": true
+      },
+      {
+        "answerid": 3,
+        "title": "قرمز",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "زرد",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 10,
+    "categoryid": 3,
+    "text": "کدام دسته از رنگهای زیر گرم می باشد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "قرمز و آبی ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "سبز و زرد ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "زرد و قرمز",
+        "iscorrect": true
+      },
+      {
+        "answerid": 4,
+        "title": "سبز و آبی",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 11,
+    "categoryid": 3,
+    "text": "به کیفیت رنگین بودن رنگها چه می گویند؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "فام",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "ته رنگ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "هردو ",
+        "iscorrect": true
+      },
+      {
+        "answerid": 4,
+        "title": "هیچ کدام",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 12,
+    "categoryid": 3,
+    "text": "اولین نمودار رنگ دایره شکل را اولین بار چه کسی بوجود آورده است ؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "فارابی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "نریمان زارع",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "نیوتن",
+        "iscorrect": true
+      },
+      {
+        "answerid": 4,
+        "title": "امیر محمد ربانی",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 1,
+    "categoryid": 4,
+    "text": "طول یک ماراتن چقدر است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": " 42.195 کیلومتر ",
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": "45.201 کیلومتر",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "54.821 کیلومتر",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "53.221 کیلومتر",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 2,
+    "categoryid": 4,
+    "text": "چند بازیکن در یک تیم بیسبال وجود دارد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": 10,
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": 8,
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": 9,
+        "iscorrect": true
+      },
+      {
+        "answerid": 4,
+        "title": 5,
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 3,
+    "categoryid": 4,
+    "text": "کدام کشور قهرمان جام جهانی 2018 شد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "المان",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "انگلیس",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "فرانسه",
+        "iscorrect": true
+      },
+      {
+        "answerid": 4,
+        "title": "برزیل",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 4,
+    "categoryid": 4,
+    "text": "چه ورزشی به عنوان سلطان ورزش شناخته می شود؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "فوتبال",
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": "بسکتبال",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "والیبال",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "کشتی",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 5,
+    "categoryid": 4,
+    "text": " دو ورزش ملی کانادا کدامند؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "والیبال و بسکبال",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "چوگان و هاکی روی یخ",
+        "iscorrect": true
+      },
+      {
+        "answerid": 3,
+        "title": "فوتبال و هاکی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "فوتبال و شنا",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 6,
+    "categoryid": 4,
+    "text": "امیرخان در چه سالی مدال بوکس المپیک خود را کسب کرد؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": 2004,
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": 2019,
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": 2008,
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": 2017,
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 7,
+    "categoryid": 4,
+    "text": "بهترین بازیکن جام جهانی ۲۰۰۶ آلمان چه کسی است ؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "زین الدین زیدان",
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": "دیوید بکهام",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "لوییس فیگو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "الیور کان",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 1,
+    "categoryid": 8,
+    "text": "پرافتخار ترین تیم تاریخ لیگ قهرمانان اروپا؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "رئال مادرید ",
+        "iscorrect": true
+      },
+      {
+        "answerid": 2,
+        "title": "چلسی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "منچستر یونایتد",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "تراکتور",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 1,
+    "categoryid": 9,
+    "text": "لباس ورزشیرزمی کونگ فو چه رنگی است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "سفید",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "سیاه",
+        "iscorrect": true
+      },
+      {
+        "answerid": 3,
+        "title": "قرمز ",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "زرد",
+        "iscorrect": false
+      }
+    ]
+  },
+  {
+    "questionid": 10,
+    "categoryid": 4,
+    "text": "فوتبال مدرن از کدام کشور سرچشمه گرفته شده است؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "المان",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "برزیل",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "امریکا",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "انگلستان",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 11,
+    "categoryid": 4,
+    "text": "فدراسیون جهانی فیبا مربوط به کدام رشته ورزشی است ؟ ",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "کبدی",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "والیبال",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "شنا",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": " بسکتبال",
+        "iscorrect": true
+      }
+    ]
+  },
+  {
+    "questionid": 12,
+    "categoryid": 4,
+    "text": "  کدام ورزش رزمی در المپیک حضور ندارد ؟",
+    "answers": [
+      {
+        "answerid": 1,
+        "title": "ووشو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 2,
+        "title": "تکواندو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 3,
+        "title": "کنگفو",
+        "iscorrect": false
+      },
+      {
+        "answerid": 4,
+        "title": "کاراته  ",
+        "iscorrect": true
+      }
+    ]
+  }
+]

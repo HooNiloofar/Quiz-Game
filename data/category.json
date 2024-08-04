@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "اطلاعات عمومی",
+        "order": 2
+    },
+    {
+        "id": 2,
+        "title": "هوش",
+        "order": 1
+    },
+    {
+        "id": 3,
+        "title": "هنری",
+        "order": 4
+    },
+    {
+        "id": 4,
+        "title": "ورزشی",
+        "order": 3
+    },
+    {
+        "id": 4,
+        "title": "سیاسی",
+        "order": 5,
+        "deactivated": true
+    }
+]
